@@ -15,9 +15,9 @@ A "track" is composed of many lessons, often organized into topics.
 
 Click on the track name above to pop open Track Navigation, which allows you to view topics and units and move between lessons.
 
-<img src='https://s3.amazonaws.com/learn-verified/NavigateCurriculum1.png' alt='NavigateCurriculum1' style='max-width: 600px;' />
+<div style='text-align: center;'><img src='https://s3.amazonaws.com/learn-verified/NavigateCurriculum1.png' alt='NavigateCurriculum1' style='max-width: 600px;' /></div>
 
-<img src='https://s3.amazonaws.com/learn-verified/NavigateCurriculum2.png' alt='NavigateCurriculum2' style='max-width: 600px;'/>
+<div style='text-align: center;'><img src='https://s3.amazonaws.com/learn-verified/NavigateCurriculum2.png' alt='NavigateCurriculum2' style='max-width: 600px;'/></div>
 
 While it’s easy to toggle between lessons, we recommend that you go linearly, starting with pieces of content you haven't completed. The content goes much deeper into each topic. If you feel like you don't understand a concept fully, go back and re-read the Intro material.
 
@@ -41,7 +41,7 @@ All labs include a README that you will see on Learn. The lab README will descri
 
 You'll know if a lesson on Learn is a lab by the actions the right column asks you to take. Labs will display the following in the right:
 
-<img src='https://s3.amazonaws.com/learn-verified/right_rail_lab.png' alt='Right Rail' />
+<div style='text-align: center;'><img src='https://s3.amazonaws.com/learn-verified/right_rail_lab.png' alt='Right Rail' style='max-width: 600px'/></div>
 
 ### GO! 
 
