@@ -44,7 +44,7 @@ You'll know if a lesson on Learn is a lab by the actions the right column asks y
 
 ### GO! 
 
-Seeing as this lesson is a README, you're now done and ready to go to the next lesson. Click the "I'm Done" button and proceed to the next lesson.
+Seeing as this lesson is a README, you're now done and ready to go to the next lesson!
 
 
 <a href='https://learn.co/lessons/welcome-one' data-visibility='hidden'>View this lesson on Learn.co</a>
